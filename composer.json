@@ -1,5 +1,5 @@
 {
-    "name": "spatie/nova-translatable",
+    "name": "hossammonir/nova-translatable",
     "description": "Making Nova fields translatable",
     "keywords": [
         "laravel",
@@ -22,7 +22,7 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "laravel/nova": "^4.0",
+        "laravel/nova": "^4.0|^5.0",
         "spatie/laravel-translatable": "^5.0|^6.0"
     },
     "require-dev": {
